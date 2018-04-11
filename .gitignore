@@ -2,3 +2,4 @@
 /keyrings/live/pubring.kbx~
 /keyrings/live/secring.gpg
 /secrets/app_config_prod.ini
+/secrets/secrets.json
