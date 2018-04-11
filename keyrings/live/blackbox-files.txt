@@ -1,1 +1,2 @@
 secrets/app_config_prod.ini
+secrets/secrets.json
